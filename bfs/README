@@ -1,1 +1,55 @@
 Bug Fables
+
+
+---
+Changelog (VA1 --> VA2):
+---
+*Big Mistake: mana cost changed from 1B to 2B; effect changed from +2/-2 to +3/-3
+*Bittersweet Memory: mana cost changed from 1B to B
+*Chompy, Next in Line: changed exile from cost to effect
+*Failed Experiment: added option to pay 1B to additional cost
+*Favorite One: mana cost changed from 4 to 3
+*Frenzied Sunflower Dance: mana cost changed from XXG to XXGG; added convoke
+*Jayde, Dissident Rebel: changed damage trigger from "creature tokens you control" to "creatures you control"
+*Lawless Ruffian: added "Its controller loses 2 life"
+*Lost Sands Burglar: changed from 3/5 to 2/5
+*Monsieur Scarlet: changed from 2/3 to 3/2
+*Seedling King: changed from 5/4 to 4/3
+*Shady Dealer: removed renew ability word (not a sorcery)
+*Wasp Assault: added ability to hit planeswalkers
++Icefall: changed name to Ancient Icefall (card already exists with that name)
++Ant Queen Elizant II: fixed reminder text
++Charitable Sightseer: fixed reminder text
++Cross and Poi, Termite Guards: fixed wording (singular agreement)
++Expensive Resort: uncapitalized token
++Frigid Coffin: changed "the" to "that"
++Golden Seedling: capitalized Treasure
++Jaune, Prodigious Painter: "this creature" to "CARDNAME" for legendary
++Levi and Celia, Seasoned Explorers: fixed art crop
++Lost Sands Bandit: fixed wording
++Luminous Traveler: fixed reminder text
++Piercing Roar: fixed flavor text
++Sprout From Within: added missing Aura subtype
++Spuder, Bane of Explorers: fixed text clipping (was only on export and not on MSE?)
++The Devourer: added missing "creature" word
++Zombee: italicized ability word
++Zommoth: "CARDNAME" to "this creature" for nonlegendary
+
+
+---
+Changelog (VA2 --> VA3):
+to be added to: cockatrice
+---
+*Ahoneynation: fixed reminder text; added missing food sac effect
+*Carry the Lineage: removed "other" from ability
+*Inquisitive Biologist: changed formidable ability to only your turn
+*King Hector IV and Queen Layra II: changed formidable ability to only your turn
+*Mimic Spider: reworked ability
+*Miracle Matter: changed to return tapped, increased equip cost from 3 to 4
+*Scorpion Caretaker: fixed reminder text; increased ability cost from 1B to 2B
+*Seedling King: fixed trample wording; made tokens enter tapped
+*Spuder, Bane of Explorers: changed from 4/3 to 3/3
+*Venus Guardian: changed formidable ability to only your turn
++Lost Appetite: added missing period
++Passionate Baker: fixed reminder text (3/1 to 2/1)
++Queen Elizant I, the Peacemaker: changed "during your end step" to "at the beginning of your end step"
